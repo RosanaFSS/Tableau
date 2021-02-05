@@ -3,7 +3,7 @@
 Feb 5, 2021 | Creating Visualizations in Tableau  |
  
 
-:heavy_minus_sign:  _Profit per Country per Sub-Category_ 
+:heavy_minus_sign:  _Profit by Country per Sub-Category_ 
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitperCountryperCategory/ProfitperCountryperSub-Category?publish=yes
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Profit%20for%20%20Binders%20in%20France.jpg )
 
