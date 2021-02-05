@@ -24,4 +24,4 @@ Feb 5, 2021 | Creating Visualizations in Tableau  |
 
 
 :heavy_minus_sign:  _Profit attributable for each product Subcategory by Region_
-![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Highest%20Profit%20for%202014%20with%20Category%20encoded%20as%20color.jpg )
+![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Profit%20attributable%20for%20each%20product%20Subcategory%20by%20Region.jpg )
