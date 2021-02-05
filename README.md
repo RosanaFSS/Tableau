@@ -2,6 +2,11 @@
 
 Feb 5, 2021 | Creating Visualizations in Tableau  |
  
+
+:heavy_minus_sign:  _Profit per Country per Sub-Category_ 
+##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitperCountryperCategory/ProfitperCountryperSub-Category?publish=yes
+
+
 :heavy_minus_sign:  _Sales per Category and Sub-Category_ 
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/SalesperCategoryandSub-Category/SalesperCategorySub-Category?publish=yes
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Sales%20per%20Category%20and%20Sub-Category.jpg )
