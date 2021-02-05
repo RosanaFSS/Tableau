@@ -1,7 +1,8 @@
 # Tableau
 Hands-on for gaining familiarity with Tableau
 
-| Feb 5th | 
+| Feb 5th |
+
 _Sales per Category and Sub-Category_ 
 _Highest Profit for 2014_
 
