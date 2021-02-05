@@ -1,7 +1,7 @@
-### Tableau
+# Tableau
 Hands-on for gaining familiarity with Tableau
 
-| Feb 5th | Creating Visualizations in Tableau
+Feb 5, 2021 | Creating Visualizations in Tableau  |
  
 :heavy_minus_sign:  _Sales per Category and Sub-Category_ \
 :heavy_minus_sign:  _Highest Profit for 2014_\
