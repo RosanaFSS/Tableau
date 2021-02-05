@@ -20,6 +20,8 @@ Feb 5, 2021 | Creating Visualizations in Tableau  |
 :heavy_minus_sign:  _Highest Profit for 2014 with Category encoded as color_
 
 Most often data is encoded with color. This is easily done in Tableau, simply drag the field to "Color" in the Marks card. 
+Clicking on "Color" in the Marks card lets you change the color palette used to encode the data.
+"Color is one of the most important factors for making attractive and understandable visualizations."
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Highest%20Profit%20for%202014%20with%20Category%20encoded%20as%20color.jpg )
 
 
