@@ -1,5 +1,4 @@
 # Tableau
-Hands-on for gaining familiarity with Tableau
 
 Feb 5, 2021 | Creating Visualizations in Tableau  |
  
