@@ -2,4 +2,4 @@
 Gaining familiarity with Tableau, hands-on
 
 - Feb 5th | _Sales per Category and Sub-Category._ |
-![SQL](https://github.com/RosanaFSS/SQL/blob/main/Module%201%20%2C%20hands-on%20lab%20-%20provision%20a%20cloud%20hosted%20database%20instance.jpg)
+![SQL](https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Sales%20per%20Category%20and%20Sub-Category.jpg)
