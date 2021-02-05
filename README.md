@@ -28,4 +28,5 @@ Clicking on "Color" in the Marks card lets you change the color palette used to 
 
 
 :heavy_minus_sign:  _Profit attributable for each product Subcategory by Region_
+https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitattributableforeachproductSubcategorybyRegion/ProfitattributableforeachproductSubcategorybyRegion?publish=yes
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Profit%20attributable%20for%20each%20product%20Subcategory%20by%20Region.jpg )
