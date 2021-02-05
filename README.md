@@ -2,6 +2,7 @@
 Hands-on for gaining familiarity with Tableau
 
 | Feb 5th | Creating Visualizations in Tableau
+
 _Sales per Category and Sub-Category_ 
 _Highest Profit for 2014_
 
