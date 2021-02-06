@@ -5,6 +5,7 @@ Feb 5, 2021 | Creating Visualizations in Tableau  |
 
 :heavy_minus_sign:  _Weekly Sales Growth, Table Calculation
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/WeeklySalesGrowthTableCalculation/WeeklySalesGrowthTableCalculation?publish=yes_ 
+![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Weekly%20Sales%20Growth%2C%20Table%20Calculation.jpg )
 
 
 :heavy_minus_sign:  _Profit and Sales in Dual Axis_ 
