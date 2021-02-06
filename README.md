@@ -2,6 +2,9 @@
 
 Feb 5, 2021 | Creating Visualizations in Tableau  |
  
+:heavy_minus_sign:  _Profit grow by Quarter through 4 Years_ 
+##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitgrowbyQuarterthrough4years/ProfitgrowbyQuarterthrough4years?publish=yes
+
 
 :heavy_minus_sign:  _Profit by Country per Sub-Category_ 
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitperCountryperCategory/ProfitperCountryperSub-Category?publish=yes
