@@ -1,7 +1,12 @@
 # Tableau
 
 Feb 5, 2021 | Creating Visualizations in Tableau  |
- 
+
+
+:heavy_minus_sign:  _Profit and Sales in Dual Axis_ 
+##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitandSalesinDualAxis/Sheet6?publish=yes
+
+
 :heavy_minus_sign:  _Profit grow by Quarter through 4 Years_ 
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitgrowbyQuarterthrough4years/ProfitgrowbyQuarterthrough4years?publish=yes
 
