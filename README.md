@@ -2,16 +2,19 @@
 
 | Creating Visualizations in Tableau  |
 
+:heavy_minus_sign:  _Story telling - What drove revenue top 1 in average popularity? An IMdB data exploratory analysis_
+##### https://public.tableau.com/profile/rosana7921#!/vizhome/Whatdroverevenuefortop1genreinaveragepopularity/RevenueTop3-Popularity
 
-:heavy_minus_sign:  _ Story Telling - Sales_Rocket, Proof of Concept
+
+:heavy_minus_sign:  _Story telling - Sales_Rocket, Proof of Concept_
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProofofConcept_16134389538500/ProofofConcept?publish=yes
 
 
-:heavy_minus_sign:  _Quarter Sales by Category, Table Calculation
+:heavy_minus_sign:  _Quarter Sales by Category, Table Calculation_
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/QuarterSalesbyCategory/QuarterSalesbyCategory?publish=yes
 
 
-:heavy_minus_sign:  _Weekly Sales Growth, Table Calculation
+:heavy_minus_sign:  _Weekly Sales Growth, Table Calculation_
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/WeeklySalesGrowthTableCalculation/WeeklySalesGrowthTableCalculation?publish=yes_ 
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Weekly%20Sales%20Growth%2C%20Table%20Calculation.jpg )
 
