@@ -2,7 +2,7 @@
 
 | Creating Visualizations in Tableau  |
 
-:heavy_minus_sign:  _Story telling - What drove revenue top 1 in average popularity? An IMdB data exploratory analysis_
+:heavy_minus_sign:  _Story telling - What drove revenue top 3 in average popularity? An IMdB data exploratory analysis_
 ##### https://public.tableau.com/profile/rosanafss#!/vizhome/Whatdroverevenuefortop1genreinaveragepopularity/RevenueTop3-Popularity
 
 
