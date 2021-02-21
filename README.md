@@ -16,7 +16,7 @@
 
 
 :heavy_minus_sign:  _Profit and Sales in Dual Axis_ 
-##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitandSalesinDualAxis/Sheet6?publish=yes
+##### https://public.tableau.com/profile/rosanafss#!/vizhome/ProfitandSalesinDualAxis/Sheet6?publish=yes
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Profit%20and%20Sales%20in%20Dual%20Axis.jpg )
 
 
