@@ -6,10 +6,6 @@
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/Whatdroverevenuefortop1genreinaveragepopularity/RevenueTop3-Popularity
 
 
-:heavy_minus_sign:  _Story telling - Sales_Rocket, Proof of Concept_
-##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProofofConcept_16134389538500/ProofofConcept?publish=yes
-
-
 :heavy_minus_sign:  _Quarter Sales by Category, Table Calculation_
 ##### https://public.tableau.com/profile/rosana7921#!/vizhome/QuarterSalesbyCategory/QuarterSalesbyCategory?publish=yes
 
