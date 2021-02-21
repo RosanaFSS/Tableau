@@ -3,15 +3,15 @@
 | Creating Visualizations in Tableau  |
 
 :heavy_minus_sign:  _Story telling - What drove revenue top 1 in average popularity? An IMdB data exploratory analysis_
-##### https://public.tableau.com/profile/rosana7921#!/vizhome/Whatdroverevenuefortop1genreinaveragepopularity/RevenueTop3-Popularity
+##### https://public.tableau.com/profile/rosanafss#!/vizhome/Whatdroverevenuefortop1genreinaveragepopularity/RevenueTop3-Popularity
 
 
 :heavy_minus_sign:  _Quarter Sales by Category, Table Calculation_
-##### https://public.tableau.com/profile/rosana7921#!/vizhome/QuarterSalesbyCategory/QuarterSalesbyCategory?publish=yes
+##### https://public.tableau.com/profile/rosanafss#!/vizhome/QuarterSalesbyCategory/QuarterSalesbyCategory?publish=yes
 
 
 :heavy_minus_sign:  _Weekly Sales Growth, Table Calculation_
-##### https://public.tableau.com/profile/rosana7921#!/vizhome/WeeklySalesGrowthTableCalculation/WeeklySalesGrowthTableCalculation?publish=yes_ 
+##### https://public.tableau.com/profile/rosanafss#!/vizhome/WeeklySalesGrowthTableCalculation/WeeklySalesGrowthTableCalculation?publish=yes_ 
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Weekly%20Sales%20Growth%2C%20Table%20Calculation.jpg )
 
 
@@ -21,16 +21,16 @@
 
 
 :heavy_minus_sign:  _Profit grow by Quarter through 4 Years_ 
-##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitgrowbyQuarterthrough4years/ProfitgrowbyQuarterthrough4years?publish=yes
+##### https://public.tableau.com/profile/rosanafss#!/vizhome/ProfitgrowbyQuarterthrough4years/ProfitgrowbyQuarterthrough4years?publish=yes
 
 
 :heavy_minus_sign:  _Profit by Country per Sub-Category_ 
-##### https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitperCountryperCategory/ProfitperCountryperSub-Category?publish=yes
+##### https://public.tableau.com/profile/rosanafss#!/vizhome/ProfitperCountryperCategory/ProfitperCountryperSub-Category?publish=yes
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Profit%20for%20%20Binders%20in%20France.jpg )
 
 
 :heavy_minus_sign:  _Sales per Category and Sub-Category_ 
-##### https://public.tableau.com/profile/rosana7921#!/vizhome/SalesperCategoryandSub-Category/SalesperCategorySub-Category?publish=yes
+##### https://public.tableau.com/profile/rosanafss#!/vizhome/SalesperCategoryandSub-Category/SalesperCategorySub-Category?publish=yes
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Sales%20per%20Category%20and%20Sub-Category.jpg )
 
 
@@ -56,5 +56,5 @@ Clicking on "Color" in the Marks card lets you change the color palette used to 
 
 
 :heavy_minus_sign:  _Profit attributable for each product Subcategory by Region_
-https://public.tableau.com/profile/rosana7921#!/vizhome/ProfitattributableforeachproductSubcategorybyRegion/ProfitattributableforeachproductSubcategorybyRegion?publish=yes
+https://public.tableau.com/profile/rosanafss#!/vizhome/ProfitattributableforeachproductSubcategorybyRegion/ProfitattributableforeachproductSubcategorybyRegion?publish=yes
 ![Tableau]( https://github.com/RosanaFSS/Tableau/blob/main/Intro%20to%20Data%20Visualization/Profit%20attributable%20for%20each%20product%20Subcategory%20by%20Region.jpg )
